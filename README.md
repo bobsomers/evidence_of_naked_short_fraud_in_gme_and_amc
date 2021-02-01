@@ -84,18 +84,38 @@ was hovering around $300M and their corporate borrowing had been going up.
 ![AMC Net Earnings and Cash on Hand](amc_net_earnings_cash_on_hand.png)
 ![AMC Corporate Borrowing](amc_corporate_borrowing.png)
 
+What coincided with the first small naked short bet on AMC in June/July of 2019?
+Their cash on hand just dipped below $200M (from being stable around $300m).
+The last time that happened, AMC more than doubled its corporate loans. The
+short hedge funds smelled blood in the water.
+
+The second bet, where the naked shorts doubled down occurred in November of
+2019. What happened then? AMC Q3 earnings, which showed that cash on hand had
+dropped to a precipitous $100M. Bankruptcy was in sight for the hedge funds...
+
+And then COVID hit. Their massive third wave bet was similar to GameStop,
+though slightly more delayed. Why? May 2020 was the peak of naked short selling,
+around the time when some businesses were able to reopen with restrictions, but
+it was clear that **movie theaters**, among a few other things, would be staying
+closed until the pandemic was completely over.
+
+Also like GameStop, at its peak **over 20% of the company's outstanding shares
+were failing to deliver**. This is not normal.
+
 ## Conclusion
 
 I think the evidence shows there is a strong reason to believe that one or more
 hedge funds, probably in collusion with broker dealers or the DTCC, have been
 deliberately naked short selling both GME and AMC since mid-2019. They made
 small bets to start with in the first wave, doubled down a few months later,
-and went in for the kill when COVID hit the US.
+but stupidly went all-in for the kill when COVID hit the US. It presented a
+unique scapegoat that nobody would question for pushing a failing mall retailer
+and a dwindling movie chain out of business.
 
 Where does this leave us? I don't know. Unless this results in some kind of
 economic crisis (and I'm beginning to think it will), I don't see anything
 getting seriously investigated or changing. This is the same crap that happened
-with Fannie Mae and Freddie Mac in 2008, but nobody got punished for it. Of
+with Fannie Mae and Freddie Mac in 2008, but nobody was went to jail for it. Of
 course they were going to keep doing it.
 
 This is not financial advice. I eat crayons and paste.
