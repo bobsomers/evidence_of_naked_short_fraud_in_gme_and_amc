@@ -58,4 +58,47 @@ downward.
 
 ![Gamestop Q2 19 Earnings](gamestop_q2_2019.png)
 
+Finally COVID hits the US in March and April. Lockdowns happen and it becomes
+clear that nobody is going to malls anytime soon. This is where the third
+and final massive wave of naked short selling happens, attempting to push
+GME into bankruptcy. Remember, that's always the goal with naked short selling.
+If the company goes bankrupt, especially with a convenient parallel story
+("It was a failing company anyway and COVID was the nail in the coffin!"), then
+nobody bothers to look into how many counterfeit shares might be floating
+around out there. They aren't worth anything, so who cares!
+
+At its peak, **over 20% of the company's entire outstanding shares were failing
+to deliver every month**. This is confimed by a tweet from Michael Burry (since
+deleted, he scrubs his tweets) that says when he tried to recall his lent-out
+shares, it took his broker **many weeks** to locate them. Remember, companies
+normally have well below 1% of their outstanding shares fail to deliver every
+month.
+
 ## AMC Entertainment
+
+To understand how we got here with AMC, you need to look back further, to 2017.
+AMC has been struggling to be profitable for a while. They had a history of
+posting very small net profits along with many net losses. Their cash on hand
+was hovering around $300M and their corporate borrowing had been going up.
+
+![AMC Net Earnings and Cash on Hand](amc_net_earnings_cash_on_hand.png)
+![AMC Corporate Borrowing](amc_corporate_borrowing.png)
+
+## Conclusion
+
+I think the evidence shows there is a strong reason to believe that one or more
+hedge funds, probably in collusion with broker dealers or the DTCC, have been
+deliberately naked short selling both GME and AMC since mid-2019. They made
+small bets to start with in the first wave, doubled down a few months later,
+and went in for the kill when COVID hit the US.
+
+Where does this leave us? I don't know. Unless this results in some kind of
+economic crisis (and I'm beginning to think it will), I don't see anything
+getting seriously investigated or changing. This is the same crap that happened
+with Fannie Mae and Freddie Mac in 2008, but nobody got punished for it. Of
+course they were going to keep doing it.
+
+This is not financial advice. I eat crayons and paste.
+
+Positions: 100 GME @ $36, 500 AMC @ $2.75 (but I wrote $3 calls on it before it
+mooned... GUH)
