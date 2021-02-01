@@ -25,7 +25,7 @@ fail to deliver a likely explanation is naked short selling. For a thorough
 explanation of this, see [this article](http://counterfeitingstock.com/CS2.0/CounterfeitingStock.html).
 
 Back in early 2019, both GME and AMC look like the others. All had sub-1% of
-their outstandinding shares end up as FTD. But starting in mid 2019, both GME
+their outstanding shares end up as FTD. But starting in mid 2019, both GME
 and AMC experienced three waves of progressively larger naked short selling
 attacks. This is known as [scaling in](https://www.investopedia.com/terms/s/scale-in.asp).
 
@@ -68,7 +68,7 @@ nobody bothers to look into how many counterfeit shares might be floating
 around out there. They aren't worth anything, so who cares!
 
 At its peak, **over 20% of the company's entire outstanding shares were failing
-to deliver every month**. This is confimed by a tweet from Michael Burry (since
+to deliver every month**. This is confirmed by a tweet from Michael Burry (since
 deleted, he scrubs his tweets) that says when he tried to recall his lent-out
 shares, it took his broker **many weeks** to locate them. Remember, companies
 normally have well below 1% of their outstanding shares fail to deliver every
