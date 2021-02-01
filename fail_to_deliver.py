@@ -55,6 +55,7 @@ FAILS_DATA = [
     'data/cnsfails202011b.txt',
     'data/cnsfails202012a.txt',
     'data/cnsfails202012b.txt',
+    'data/cnsfails202101a.txt',
 ]
 
 OUTSTANDING_DATA = {
